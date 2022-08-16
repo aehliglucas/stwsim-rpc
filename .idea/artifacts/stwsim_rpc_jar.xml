@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stwsim-rpc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stwsim_rpc_jar</output-path>
+    <root id="archive" name="stwsim-rpc.jar">
+      <element id="module-output" name="stwsim-rpc" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/java-discord-rpc-2.0.1-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Dev/stwsim-rpc/stspluginlib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/stspluginlib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Dev/stwsim-rpc/java-discord-rpc-2.0.1-all.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

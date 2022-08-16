@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="stspluginlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Dev/stwsim-rpc/stspluginlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
